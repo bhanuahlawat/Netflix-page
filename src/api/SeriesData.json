@@ -1,0 +1,69 @@
+[
+    
+    {
+      "title": "Stranger Things",
+      "id": "stranger things",
+      "rating": "8.7",
+      "image_url":"./images/stranger things.png",
+      "genre": ["Sci-Fi", "Horror", "Mystery"],
+      "description": "A supernatural mystery unfolds in Hawkins, Indiana, when a young boy vanishes. His friends, a girl with telekinetic powers, and the town uncover a terrifying alternate dimension called the Upside Down.",
+      "watch_url": "https://www.netflix.com/in/title/80057281"
+    },
+    {
+      "title": "Money Heist",
+      "id": "money heist",
+      "image_url":"./images/money-heist.png",
+      "rating": "8.2",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "description": "A criminal mastermind, known as 'The Professor,' assembles a group of robbers to pull off the biggest heist in Spanish history: stealing billions from the Royal Mint of Spain.",
+      "watch_url": "https://www.netflix.com/in/title/80192098"
+    },
+    {
+      "title": "Squid Game",
+      "id": "squid game",
+      "image_url":"./images/squid game.png",
+      "rating": "8.0",
+      "genre": ["Drama", "Thriller", "Survival"],
+      "description": "Hundreds of debt-ridden individuals accept a mysterious invitation to participate in deadly children's games for a chance to win a massive cash prize.",
+      "watch_url": "https://www.netflix.com/in/title/81040344"
+    },
+    {
+      "title": "The Witcher",
+      "id": "the witcher",
+      "image_url":"./images/Witcher.png",
+      "rating": "8.1",
+      "genre": ["Fantasy", "Action", "Adventure"],
+      "description": "Geralt of Rivia, a monster hunter, struggles to find his place in a world where humans can be more wicked than beasts.",
+      "watch_url": "https://www.netflix.com/in/title/80189685"
+    },
+    {
+      "title": "Dark",
+      "id": "dark",
+      "image_url":"./images/Dark.png",
+      "rating": "8.8",
+      "genre": ["Sci-Fi", "Mystery", "Drama"],
+      "description": "A mind-bending time travel mystery set in a small German town, where families uncover a secret spanning multiple generations, revealing a paradoxical loop of events.",
+      "watch_url": "https://www.netflix.com/in/title/80100172"
+    },
+    {
+      "title": "Breaking Bad",
+      "id": "breaking bad",
+      "image_url": "./images/breaking-bad.png",
+      "rating": "9.5",
+      "genre": ["Crime drama", "Thriller", "Black comedy"],
+      "description": "A gripping tale based on the true story of the first human spacewalk by Russian cosmonaut Alexei Leonov. Set against the backdrop of the Cold War, it portrays courage, risk, and human determination beyond Earth's bounds.",
+      "watch_url": "https://www.netflix.com/in/title/70143836"
+    },
+    {
+      "title": "Lost in Space",
+      "id": "lost-in-space",
+      "image_url": "./images/lost-in-space.png",
+      "rating": "7.3",
+      "genre": ["Sci-Fi", "Adventure", "Family"],
+      "description": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers and must work together to survive in the unknown.",
+      "watch_url": "https://www.netflix.com/in/title/80104198"
+    }
+    
+    
+]
+  
